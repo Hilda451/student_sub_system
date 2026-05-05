@@ -1,4 +1,4 @@
-# Module 2 – Thinking Like A Programmer
+# Module 2 – Thinking Like A Programme
 ## Component 1: VS Code & Git Basics — Summative Assessment
 
 > **Occupational Certificate: Software Development**
